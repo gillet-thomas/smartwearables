@@ -1,0 +1,34 @@
+*.swp
+# *.jpg
+# *.png
+smpl/
+tmp/
+pretrained_models/
+.vscode/
+test_result/
+log/
+log.txt
+checkpoints/
+evaluate_results/
+*.pyc
+*.npy
+test_log.txt
+*.pkl
+pretrained/
+render_result/
+lightweight-human-pose-estimation.pytorch/
+webvideos/
+samples/
+*.pth
+*.obj
+detectors/
+samples_all/
+*.zip
+extra_data/
+mocap_output/
+
+demo.sh
+demo_multi.sh
+mocap_utils/frame_to_video.py
+mocap_utils/frame_to_gif.py
+mocap_utils/select_epick_kitchen.py
