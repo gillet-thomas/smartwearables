@@ -44,10 +44,16 @@ python -m demo.demo_bodymocap --input_path webcam --out_dir ./mocap_output
 ```
 
 # Final result & Future work
-<img src="https://github.com/gillet-thomas/smartwearables/blob/main/readme/demo.gif">
+![demo](./readme/demo.gif)
 
-On [this drive](https://drive.google.com/drive/folders/1s9CqlsL0hWcfKQkC3LKzutG2Y8IMtTd_?usp=sharing), one can find 4 examples of the final result where both the input webcam video and the output of the model are combined. 
-One can also find a demo version of this program implemented in **[Google Colab](https://colab.research.google.com/drive/1joV9aKNkk9aehK5z_6Kj869qYznOfkWb)**.
+You can find 4 examples of the final result, where both the input webcam video and the output of the model are combined, in the [readme](./readme/) folder:
+- [Example 1](./readme/Combined1.mp4)
+- [Example 2](./readme/Combined2.mp4)
+- [Example 3](./readme/Combined3.mp4)
+- [Example 4](./readme/Combined4.mp4)
+
+A demo version of this program is also available as a notebook: [Smart_Wearables.ipynb](./readme/Smart_Wearables.ipynb).
+
 
 
 This project has been realized in only three weeks. Due to this small timeframe, a lot of features couldn’t be implemented. Here are some of the main next steps to be realized:
